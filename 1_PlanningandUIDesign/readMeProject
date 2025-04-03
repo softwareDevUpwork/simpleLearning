@@ -1,0 +1,23 @@
+Description 
+
+To implement Behavior-Driven Development (BDD) which closes the gap between client and technical team. 
+
+Prerequisites:
+Javascript 
+NodeJS 
+Cucumber 
+Gherkin 
+
+Description: 
+This assignment is designed to help understand Behavior-Driven Development (BDD). Use Gherkin language to describe the system's behavior, i.e., focus on what rather than how. 
+
+Problem Statement: 
+Anna runs an Architectural firm. To manage her client meetings and projects, she needs project management software 
+which will be developed by Henna Solutions, a software company in her town. The company wants to perform the Behavior-Driven Development (BDD) Testing using the Gherkin language for the developed angular project. 
+
+Tasks: 
+ 
+activities as a solution: 
+1.Install Cucumber Dependency in the given Angular 
+2.Project Write a scenario for Creating a Client
+3.Write a Scenario for Client Meeting Schedule
